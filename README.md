@@ -1,28 +1,89 @@
-# Hi 👋, I'm Ton Kingrat
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thanyathonk&label=Profile views&color=0e75b6&style=flat" alt="thanyathonk" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thanyathonk" alt="thanyathonk" /></a> </p>
-
-- 📫 How to reach me **tonkingrat@gmail.com**
-
-- 👨‍💻 All of my projects are available at **[https://thanyathon.vercel.app/](https://thanyathon.vercel.app/)**
-
-- 📄 Know about my experiences **[https://drive.google.com/file/d/141_QIFMIb7iT9rSPDBRZklCSkDWi3hU8/view](https://drive.google.com/file/d/141_QIFMIb7iT9rSPDBRZklCSkDWi3hU8/view)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/thanyathonk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="thanyathonk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/thanyathon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/thanyathon" height="30" width="40" /></a>
-<a href="https://leetcode.com/https://leetcode.com/u/Theton/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Theton/" height="30" width="40" /></a>
+<!-- HERO -->
+<h1 align="center">Hi 👋, I'm Ton Kingrat</h1>
+<p align="center">
+  AI/ML for Drug Discovery • Data Engineering • Front-end Dev
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/angularjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angularjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gradio" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/gradio/FF7C00" alt="gradio" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/selenium" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a></p>
+<!-- ACTION & CONTACT -->
+<p align="center">
+  <a href="https://thanyathon.vercel.app/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Theton/">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-Theton-f59e0b?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://huggingface.co/tonnnnnnnnnnnnn">
+    <img alt="HuggingFace" src="https://img.shields.io/badge/HuggingFace-Ton-ffcc4d?style=for-the-badge&logo=huggingface&logoColor=white" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanyathonk&show_icons=true&locale=en&layout=compact" alt="thanyathonk" /></p>
+<!-- BADGES -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thanyathonk&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thanyathonk&show_icons=true&locale=en" alt="thanyathonk" /></p>
+<!-- TROPHIES -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=thanyathonk&no-bg=true&no-frame=true&margin-w=8&margin-h=8&theme=onestar" alt="trophies"/>
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thanyathonk&" alt="thanyathonk" /></p>
+<!-- ABOUT -->
+<p align="center">
+  <b>All projects</b>: <a href="https://thanyathon.vercel.app/">thanyathon.vercel.app</a> •
+  <b>Experiences</b>: <a href="https://drive.google.com/file/d/141_QIFMIb7iT9rSPDBRZklCSkDWi3hU8/view">Resume</a>
+</p>
 
+---
+
+<h3 align="center">🧠 Languages & Tools</h3>
+
+<p align="center">
+  <!-- ML / AI -->
+  <a href="#"><img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,anaconda,fastapi,flask,opencv,selenium" height="45"/></a><br/>
+  <!-- Web / Frontend -->
+  <a href="#"><img src="https://skillicons.dev/icons?i=react,ts,vue,html,css,js,tailwind,bootstrap" height="45"/></a><br/>
+  <!-- DevOps / Others -->
+  <a href="#"><img src="https://skillicons.dev/icons?i=docker,git,mysql,figma,postman" height="45"/></a><br/>
+  <!-- Hugging Face -->
+  <a href="https://huggingface.co/tonnnnnnnnnnnnn" target="_blank">
+    <img src="https://cdn.simpleicons.org/huggingface/FFCC4D" height="45" alt="Hugging Face"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub><b>💡 Stack Focus:</b> AI/ML for Drug Discovery • Data Engineering • Front-end Dev</sub>
+</p>
+
+---
+
+<h3 align="center">✨ Highlights</h3>
+
+<ul align="left">
+  <li>🔬 Developing <b>AI models for pediatric ADR & anticancer drug discovery</b></li>
+  <li>🧩 Building <b>end-to-end data pipelines</b> — parsing, OMOP/MedDRA mapping, RxNorm enrichment</li>
+  <li>☁️ Designing <b>automated ETL workflows</b> (Python, Docker, HF Datasets)</li>
+</ul>
+
+---
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=thanyathonk&layout=compact&langs_count=8&hide_border=true&theme=github_dark" alt="top langs"/></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=thanyathonk&show_icons=true&hide_border=true&theme=github_dark" alt="stats"/></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com?user=thanyathonk&hide_border=true&theme=github_dark" alt="streak"/></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<h3 align="left">Connect with me</h3>
+<p align="left">
+  <a href="https://github.com/thanyathonk"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/thanyathon"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/Theton/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" alt="LeetCode"/></a>
+  <a href="https://huggingface.co/tonnnnnnnnnnnnn"><img align="center" src="https://cdn.simpleicons.org/huggingface/FFCC4D" height="30" width="40" alt="Hugging Face"/></a>
+</p>
